@@ -1,8 +1,8 @@
 ### whois 👀
 
-I'm a clownlish lazy wizard.
+I'm a clownish lazy wizard.
 
-<img src="./octo.png" width="200">
+<img src="https://github.com/renanrodrigo/renanrodrigo/blob/master/octocat.png" width="200">
 
 - 🔭 I’m currently working on code.
 - 🌱 I’m currently learning everything.
