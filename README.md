@@ -2,7 +2,7 @@
 
 I'm a clownlish lazy wizard.
 
-<img src="octocat.png" width="200">
+<img src="./octocat.png" width="200">
 
 - 🔭 I’m currently working on code.
 - 🌱 I’m currently learning everything.
