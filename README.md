@@ -2,7 +2,7 @@
 
 I'm a clownish lazy wizard.
 
-<img src="https://github.com/renanrodrigo/renanrodrigo/blob/master/octocat.png" width="200">
+<img src="https://github.com/renanrodrigo/renanrodrigo/blob/master/octocat.png" width="300">
 
 - 🔭 I’m currently working on code.
 - 🌱 I’m currently learning everything.
